@@ -1,0 +1,22 @@
+.container{
+    width: 100%;
+    margin: auto;
+    background-color: #fff0fb ;
+    position: static; 
+    top: 100%; 
+    text-align: left;
+} ; 
+/* This is a single-line comment */
+
+.container img {
+    width: 20%; 
+    border-radius: 5px 5px 0 0 ; 
+    text-align: center;
+} ;
+
+
+.content{ 
+    padding: 50px; 
+border:20 ;
+    text-align: center;
+}
